@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyen Ha Trung
-* Student ID: 22BI13436
+* Student Name: Nguyen Quang Bach
+* Student ID: 22BI13053
 * Student Group ID: Not-for-now
